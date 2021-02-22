@@ -24,3 +24,11 @@ My name is Tereza Niederauer. I work as a Dev Java Jr at Zup.
 <a href="https://www.instagram.com/terezaniederauer/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 
 </p>
+
+### Languages & Tools 🛠
+
+<p align="left">
+  
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green) ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&color=green) ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=green) ![Spring_MVC](https://img.shields.io/badge/-Spring_MVC-05122A?style=flat&color=orange) ![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&color=orange) ![Intelij](https://img.shields.io/badge/-Intelij-05122A?style=flat&color=gray) ![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&color=yellow) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&color=yellow) ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&color=blue) 
+
+</p>
