@@ -7,6 +7,14 @@ My name is Tereza Niederauer. I work as a Dev Java Jr at Zup.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Trooper2123&repo=Trooper2123&countColorcountColor)
 
+### Languages & Tools 🛠
+
+<p align="left">
+  
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green) ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&color=green) ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=green) ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-05122A?style=flat&color=green)![Spring_MVC](https://img.shields.io/badge/-Spring_MVC-05122A?style=flat&color=orange) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&color=orange)![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&color=orange) ![Intelij](https://img.shields.io/badge/-Intelij-05122A?style=flat&color=gray) ![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&color=yellow) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&color=yellow) ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&color=blue) 
+
+</p>
+
 ### Analytics ⚙️
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trooper2123&layout=compact&count_private=true)
