@@ -3,7 +3,7 @@
 ==========================================================================================================================================
 
 
-My name is Tereza Niederauer. I work as a Dev Java Jr at Zup.
+My name is Tereza Niederauer. I work as a Jr BackEnd Developer.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Trooper2123&repo=Trooper2123&countColorcountColor)
 
