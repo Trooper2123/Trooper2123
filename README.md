@@ -3,7 +3,7 @@
 ==========================================================================================================================================
 
 
-My name is Tereza Niederauer. I work as a Jr BackEnd Developer.
+My name is Tereza Niederauer. I work as a BackEnd Developer.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Trooper2123&repo=Trooper2123&countColorcountColor)
 
