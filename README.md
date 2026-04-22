@@ -3,7 +3,20 @@
 ==========================================================================================================================================
 
 
-My name is Tereza Niederauer. I work as a BackEnd Developer.
+My name is Tereza Niederauer. 
+
+Backend Developer with experience in Go, Java (Spring/Spring Boot), Kotlin (Micronaut) and 
+Node.js, working on the development and maintenance of scalable services such as 
+anti-fraud systems, medical claim denial analysis platforms, and e-commerce solutions. 
+I have a multidisciplinary background, with degrees in Business Administration, Accounting, 
+and Information Security, which gives me a comprehensive view of business, finance, and 
+security risks. In my day-to-day work, I focus on clean code practices, APIs, integration with 
+cloud services (AWS), NoSQL databases (MongoDB), and CI/CD pipelines (GitHub, 
+Jenkins). 
+I have advanced English (TOEIC 965) and certifications in Information Security and Data 
+Privacy (ISO/IEC 27001, LGPD, and Privacy & Data Protection), combining backend 
+development with a strong focus on security, reliability, and quality in solution delivery. 
+
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Trooper2123&repo=Trooper2123&countColorcountColor)
 
