@@ -5,18 +5,15 @@
 
 My name is Tereza Niederauer. 
 
-Backend Developer with experience in Go, Java (Spring/Spring Boot), Kotlin (Micronaut) and 
-Node.js, working on the development and maintenance of scalable services such as 
-anti-fraud systems, medical claim denial analysis platforms, and e-commerce solutions. 
-I have a multidisciplinary background, with degrees in Business Administration, Accounting, 
-and Information Security, which gives me a comprehensive view of business, finance, and 
-security risks. In my day-to-day work, I focus on clean code practices, APIs, integration with 
-cloud services (AWS), NoSQL databases (MongoDB), and CI/CD pipelines (GitHub, 
-Jenkins). 
-I have advanced English (TOEIC 965) and certifications in Information Security and Data 
-Privacy (ISO/IEC 27001, LGPD, and Privacy & Data Protection), combining backend 
-development with a strong focus on security, reliability, and quality in solution delivery. 
 
+Desenvolvedora Back-end especializada em Java, Spring Boot e microservices, com experiência em construir soluções robustas, seguras e escaláveis para backend.
+Atuei com REST APIs, AWS, CI/CD, testes automatizados, DevOps e observabilidade em times remotos e ágeis, entregando software confiável alinhado aos objetivos de negócio.
+Também utilizo ferramentas de desenvolvimento assistido por IA, como Claude e Cursor, para produtividade, revisão de código, refatoração e suporte técnico ao longo do ciclo de desenvolvimento.
+
+---
+Backend Developer specialized in Java, Spring Boot, and microservices, with experience building robust, secure, and scalable backend solutions.
+ Worked with REST APIs, AWS, CI/CD, automated testing, DevOps, and observability in remote and agile teams, delivering reliable software aligned with business objectives.
+ Also leverage AI-assisted development tools such as Claude and Cursor to enhance productivity, support code reviews, refactoring, and provide technical assistance throughout the software development lifecycle.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Trooper2123&repo=Trooper2123&countColorcountColor)
 
