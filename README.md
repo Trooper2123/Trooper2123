@@ -1,10 +1,6 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! </h1>
 ==========================================================================================================================================
-
-
-My name is Tereza Niederauer. 
-
 
 Desenvolvedora Back-end especializada em Java, Spring Boot e microservices, com experiência em construir soluções robustas, seguras e escaláveis para backend.
 Atuei com REST APIs, AWS, CI/CD, testes automatizados, DevOps e observabilidade em times remotos e ágeis, entregando software confiável alinhado aos objetivos de negócio.
